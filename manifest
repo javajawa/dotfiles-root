@@ -1,0 +1,12 @@
+./root/.config
+./root/.config/htop
+./root/.config/htop/htoprc
+./root/.zshrc
+./root/.vim
+./root/.vim/syntax
+./root/.vim/syntax/iptables.vim
+./root/.screenrc
+./root/.vimrc
+./root/.profile
+./usr/share/doc/dotfiles-root
+./usr/share/doc/dotfiles-root/changelog.Debian.gz

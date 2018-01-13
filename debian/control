@@ -1,0 +1,22 @@
+Source: dotfiles-root
+Package: dotfiles-root
+Section: misc
+Priority: optional
+Architecture: all
+Origin: monitise
+Depends: zsh, screen, vim
+Recommends: htop
+Essential: no
+Maintainer: Benedict Harcourt <ben@tea-cats.co.uk>
+Description: Configuration files for root@tea-cats.co.uk
+ This package contains the default configuration
+ files for UID 0 on Tea Cats machines.
+ .
+ Configuration files are included for:
+ .
+  * zsh
+  * vim
+  * htop
+ .
+ Additionally, a highlighting file is included
+ for iptables rule syntax.
